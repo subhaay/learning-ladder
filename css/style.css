@@ -36,7 +36,7 @@ h2 a:hover,
 h3 a:hover,
 h4 a:hover,
 h5 a:hover {
-  color: #d94d3a;
+  color: #0099da;
 }
 * {
   -webkit-text-size-adjust: none;
@@ -55,7 +55,7 @@ h5 a:hover {
 =========================================================*/
 #header {
   padding: 20px 0;
-  background: #d94d3a;
+  background: #0099da;
 }
 #header h1 {
   float: left;
@@ -103,7 +103,7 @@ h5 a:hover {
   margin: 0;
 }
 .sf-menu > li > a {
-  color: #7d261a;
+  color: #132a24;
   font-size: 27px;
   margin-left: 29px;
   font-family: 'Marvel', sans-serif;
@@ -148,7 +148,7 @@ h5 a:hover {
   position: absolute;
   top: 66px;
   left: -30px;
-  background: #d94d3a;
+  background: #0099da;
   color: #ffffff;
   min-width: 157px;
   z-index: 999;
@@ -169,7 +169,7 @@ h5 a:hover {
   height: 0;
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;
-  border-bottom: 10px solid #d94d3a;
+  border-bottom: 10px solid #0099da;
 }
 .sf-menu ul li {
   position: relative;
@@ -187,7 +187,7 @@ h5 a:hover {
   display: block;
 }
 .sf-menu ul li:hover > a {
-  color: #7d261a;
+  color: #132a24;
 }
 /* Second level sub-menu styles
 ========================================================*/
@@ -204,7 +204,7 @@ h5 a:hover {
   display: none;
 }
 .sf-menu ul ul a:hover {
-  color: #d94d3a;
+  color: #0099da;
 }
 @media only screen and (max-width: 767px) {
   .sf-menu {
@@ -213,7 +213,7 @@ h5 a:hover {
   .select-menu {
     display: block;
     width: 100%;
-    border-color: #d94d3a;
+    border-color: #0099da;
     color: #666;
     font-size: 16px;
     padding: 5px;
@@ -222,10 +222,10 @@ h5 a:hover {
 /* Stuck menu styles
 ========================================================*/
 .isStuck {
-  background: #d94d3a;
+  background: #0099da;
   z-index: 9;
   padding: 0;
-  border-bottom: 1px solid #d94d3a;
+  border-bottom: 1px solid #0099da;
 }
 .isStuck nav {
   margin-top: 17px !important;
@@ -294,7 +294,7 @@ h5 {
   color: #000000;
 }
 .h5__mod {
-  color: #d94d3a;
+  color: #0099da;
 }
 p {
   font: 14px/24px 'Open Sans', sans-serif;
@@ -556,7 +556,7 @@ p {
   font-size: 35px;
   text-align: center;
   color: #ffffff;
-  background: #d94d3a;
+  background: #0099da;
   display: block;
   font-family: 'Open Sans', sans-serif;
 }
@@ -624,7 +624,7 @@ p {
 }
 .index-3 .block-1 li a:hover {
   text-decoration: none;
-  color: #d94d3a;
+  color: #0099da;
 }
 .index-3 .block-1 article {
   margin-bottom: 45px;
@@ -662,10 +662,10 @@ p {
   right: 30px;
 }
 .index-4 p a {
-  color: #d94d3a;
+  color: #0099da;
 }
 .index-4 p a:hover {
-  color: #7d261a;
+  color: #132a24;
 }
 .index-4 .block-1 {
   padding: 120px 0 15px;
@@ -690,7 +690,7 @@ p {
   color: #727070;
 }
 .index-4 .block-2 .mail:hover {
-  color: #d94d3a;
+  color: #0099da;
 }
 @media only screen and (max-width: 767px) {
   .index-4 h2 {
@@ -701,7 +701,7 @@ p {
 										FOOTER styles
 =========================================================*/
 #footer {
-  background: #d94d3a;
+  background: #0099da;
   padding: 100px 0 0;
   color: #000000;
 }
@@ -763,7 +763,7 @@ p {
 ========================================================*/
 #toTop {
   display: none;
-  background: #d94d3a;
+  background: #0099da;
   text-decoration: none;
   position: fixed;
   bottom: 80px;
@@ -782,7 +782,7 @@ p {
 }
 #toTop:hover {
   outline: none;
-  color: #7d261a;
+  color: #132a24;
   -webkit-transition: color 0.5s ease;
   transition: color 0.5s ease;
 }
