@@ -486,13 +486,13 @@
 	display: block;
 }
 .camera_pag .camera_pag_ul li.camera_hover > span { 
-	border-color: #e74c3c
+	border-color: #0099da
 }
 .camera_wrap .camera_pag .camera_pag_ul li.cameracurrent > span {
 	width: 19px;
 	height: 19px;
-	background: #e74c3c;
-	border-color: #e74c3c;
+	background: #0099da;
+	border-color: #0099da;
 }
 .camera_wrap .camera_pag .camera_pag_ul li.cameracurrent > span {
 	-moz-box-shadow: 0;
@@ -500,7 +500,7 @@
 	width: 19px;
 	height: 19px;
 	box-shadow: 0;
-	background: #e74c3c;
+	background: #0099da;
 }
 .camera_caption h3 {
 	font-size: 60px;
@@ -532,5 +532,5 @@
 }
 .camera_caption .bd-ra span {line-height: 94px;}
 .camera_caption .bd-ra:hover {
-	background: #e74c3c;
+	background: #0099da;
 }
